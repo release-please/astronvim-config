@@ -2,7 +2,7 @@
 
 ## Requirements
 
-`https://astronvim.github.io/`
+https://astronvim.github.io/
 
 ## Installation
 
