@@ -62,8 +62,10 @@ local config = {
                                 ["Find Under"] = "<C-d>",
                                 ["Find Subword Under"] = "<C-d>",
                                 ["Add Cursor Down"] = "<C-j>",
-                                ["Add Cursor Up"] = "<C-k>"
+                                ["Add Cursor Up"] = "<C-k>",
+                                ["Split Regions"] = "<C-L>",
                         },
+                        -- material_theme_style = "default-community"
                 },
 
         },
@@ -247,6 +249,10 @@ local config = {
                         --   end,
                         -- },
                         ["mg979/vim-visual-multi"] = {},
+                        ["kaicataldo/material.vim"] = {},
+                        -- ["posva/vim-vue"] = {},
+                        -- ["storyn26383/vim-vue"] = {},
+                        ["posva/vim-vue"] = {},
                 },
                 -- All other entries override the require("<key>").setup({...}) call for default plugins
                 ["null-ls"] = function(config) -- overrides `require("null-ls").setup(config)`
