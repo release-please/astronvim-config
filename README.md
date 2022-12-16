@@ -4,6 +4,8 @@
 
 https://astronvim.github.io/
 
+[NerdFont](https://gist.github.com/release-please/d47baee5122e6edc055ba80468a04498)
+
 ## Installation
 
 ```bash
