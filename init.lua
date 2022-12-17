@@ -26,7 +26,7 @@ local config = {
         },
 
         -- Set colorscheme to use
-        colorscheme = "default_theme",
+        colorscheme = "tokyonight-moon",
 
         -- Add highlight groups in any theme
         highlights = {
@@ -249,7 +249,7 @@ local config = {
                         --   end,
                         -- },
                         ["mg979/vim-visual-multi"] = {},
-                        ["kaicataldo/material.vim"] = {},
+                        ["folke/tokyonight.nvim"] = {},
                         ["posva/vim-vue"] = {},
                         {
                                 "folke/todo-comments.nvim",
